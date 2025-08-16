@@ -6,3 +6,4 @@ pydantic
 beautifulsoup4
 lxml
 python-dateutil
+SQLAlchemy
