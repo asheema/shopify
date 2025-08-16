@@ -3,3 +3,5 @@ uvicorn
 requests
 tldextract
 pydantic
+beautifulsoup4
+lxml
