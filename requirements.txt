@@ -5,3 +5,4 @@ tldextract
 pydantic
 beautifulsoup4
 lxml
+python-dateutil
